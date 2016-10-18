@@ -1,23 +1,23 @@
-change header image. Add logo on top
+	change header image. Add logo on top
 
-Make logo bigger
+	Make logo bigger
 
-Take away header text on home page. Just have logo instead
+	Get rid of header text
 
-Change header picture on services page
+	Change header picture on services page
 
-Chemical facial peel price and time should be on the same line
+	Chemical facial peel price and time should be on the same line
 
-glycolic acid peel instead of “glycol” aside peel
+	glycolic acid peel instead of “glycol” aside peel
 
-acid instead acide
+	acid instead acide
 
-move satin smooth logo to up next to the satin smooth header
+	move satin smooth logo to up next to the satin smooth header
 
-add Facebook logo to nav bar on right
+	add Facebook logo to nav bar on right
 
-add logo to contact page, move text on contact page closer together
+	add logo to contact page, move text on contact page closer together
 
-Take away about page header text. Just have the logo there
+	Take away about page header text. Just have the logo there
 
-Find a slick, modern font
+	Find a slick, modern font
